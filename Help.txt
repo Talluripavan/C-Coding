@@ -1,3 +1,6 @@
 Help!!!
 I have listed down the set of programs written in C-Language
-Please check maybe usefull.
+Please check maybe useful.
+
+This is about pull request mentioned in nyoutube
+
